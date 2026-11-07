@@ -1,0 +1,44 @@
+[
+  {
+    "id": "seg01_hero",
+    "action": "hero_showcase",
+    "duration": 36.096,
+    "audio_file": "/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments/seg01_hero.mp3"
+  },
+  {
+    "id": "seg02_problem",
+    "action": "scroll_problem",
+    "duration": 34.632,
+    "audio_file": "/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments/seg02_problem.mp3"
+  },
+  {
+    "id": "seg03_pillars",
+    "action": "scroll_pillars_arch",
+    "duration": 29.952,
+    "audio_file": "/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments/seg03_pillars.mp3"
+  },
+  {
+    "id": "seg04_dashboard",
+    "action": "enter_dashboard_cop",
+    "duration": 26.64,
+    "audio_file": "/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments/seg04_dashboard.mp3"
+  },
+  {
+    "id": "seg05_inference_dualpane",
+    "action": "trigger_sample_dualpane",
+    "duration": 39.768,
+    "audio_file": "/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments/seg05_inference_dualpane.mp3"
+  },
+  {
+    "id": "seg06_blockchain_lock",
+    "action": "lock_blockchain_cert",
+    "duration": 32.472,
+    "audio_file": "/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments/seg06_blockchain_lock.mp3"
+  },
+  {
+    "id": "seg07_verify_closing",
+    "action": "verify_and_closing",
+    "duration": 31.056,
+    "audio_file": "/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments/seg07_verify_closing.mp3"
+  }
+]

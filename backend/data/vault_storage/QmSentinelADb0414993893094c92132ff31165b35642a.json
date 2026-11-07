@@ -1,0 +1,11 @@
+{
+  "sha256": "ca8b754fe0843f9ef0eb0c5c392fe91d789846271a55f6f188c8ba756a88aea0",
+  "file_name": "user_sample_authentic.jpg",
+  "verdict": "AUTHENTIC_MEDIA",
+  "confidence_score": 0.387,
+  "threat_region": "KODAM_XVII_CEN",
+  "officer_address": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+  "investigator_notes": "Pemeriksaan taktis unit siber",
+  "archived_by": "SENTINEL-AD Tactical Dispatcher",
+  "archived_at": "2026-11-06T17:53:45.910288+00:00"
+}

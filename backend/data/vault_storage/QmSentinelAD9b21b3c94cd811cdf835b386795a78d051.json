@@ -1,0 +1,8 @@
+{
+  "sha256": "dffb4c6df1dd08171db86604f60cd77b71afc5e7c36a99bbfd22ad4b35158465",
+  "file_name": "provokasi_pidato_kasad_deepfake.jpg",
+  "verdict": "DEEPFAKE_DETECTED",
+  "confidence_score": 0.623,
+  "threat_region": "KODAM_JAYA",
+  "officer_address": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9"
+}

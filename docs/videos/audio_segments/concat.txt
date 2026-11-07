@@ -1,0 +1,7 @@
+file '/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments/seg01_hero.mp3'
+file '/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments/seg02_problem.mp3'
+file '/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments/seg03_pillars.mp3'
+file '/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments/seg04_dashboard.mp3'
+file '/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments/seg05_inference_dualpane.mp3'
+file '/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments/seg06_blockchain_lock.mp3'
+file '/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments/seg07_verify_closing.mp3'

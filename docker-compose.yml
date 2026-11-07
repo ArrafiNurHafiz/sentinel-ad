@@ -1,0 +1,67 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: sentinel-backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - HOST=0.0.0.0
+      - PORT=8000
+      - CORS_ORIGINS=http://localhost,http://localhost:3000,http://127.0.0.1,http://127.0.0.1:3000
+      - PINATA_JWT=${PINATA_JWT:-}
+      - RPC_URL=${RPC_URL:-https://rpc-amoy.polygon.technology}
+      - CONTRACT_ADDRESS=${CONTRACT_ADDRESS:-0x7940250917223bdf285C22784e1b8cce25eB1496}
+    volumes:
+      - ./backend/data:/app/data
+      - ./backend/uploads:/app/uploads
+    networks:
+      - sentinel-net
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 20s
+      timeout: 5s
+      retries: 3
+      start_period: 15s
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: sentinel-frontend
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
+      - NEXT_PUBLIC_RPC_URL=${RPC_URL:-https://rpc-amoy.polygon.technology}
+      - NEXT_PUBLIC_CONTRACT_ADDRESS=${CONTRACT_ADDRESS:-0x7940250917223bdf285C22784e1b8cce25eB1496}
+      - NEXT_PUBLIC_DEFAULT_OFFICER=0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9
+    depends_on:
+      backend:
+        condition: service_healthy
+    networks:
+      - sentinel-net
+
+  nginx:
+    image: nginx:alpine
+    container_name: sentinel-gateway
+    restart: unless-stopped
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - backend
+      - frontend
+    networks:
+      - sentinel-net
+
+networks:
+  sentinel-net:
+    driver: bridge

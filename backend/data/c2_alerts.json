@@ -1,0 +1,11 @@
+[
+  {
+    "id": "C2-2026-1107003715",
+    "region_id": "KODAM_JAYA",
+    "broadcast_type": "TACTICAL_C2_ALERT",
+    "message": "Siaga 1: Deteksi disinformasi deepfake pidato komando tinggi.",
+    "sender": "Letkol Inf. Arrafi Nur Hafiz",
+    "broadcast_at": "2026-11-06T17:37:15.814586+00:00",
+    "status": "DISPATCHED"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "OFF-001",
+    "name": "Arrafi Nur Hafiz",
+    "rank": "Letkol Inf.",
+    "corps": "Infanteri",
+    "role": "ADMIN_ROLE",
+    "walletAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "unit": "Pusat Siber TNI AD (PUSSIBERAD)",
+    "status": "ACTIVE",
+    "authorizations": [
+      "ADMIN_ROLE",
+      "OFFICER_ROLE",
+      "EMIT_C2_ALERT",
+      "GRANT_REVOKE_ROLE"
+    ],
+    "issuedAt": "2026-01-15T08:00:00Z"
+  },
+  {
+    "id": "OFF-002",
+    "name": "Raditya Pradana",
+    "rank": "Mayor Chb.",
+    "corps": "Perhubungan",
+    "role": "OFFICER_ROLE",
+    "walletAddress": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "unit": "Satgassiber Kartika Wilayah Barat",
+    "status": "ACTIVE",
+    "authorizations": [
+      "LOCK_EVIDENCE",
+      "SIGN_EIP712",
+      "GENERATE_XAI_HEATMAP"
+    ],
+    "issuedAt": "2026-02-10T09:30:00Z"
+  },
+  {
+    "id": "OFF-003",
+    "name": "Bagus Hendrawan",
+    "rank": "Kapten Czi.",
+    "corps": "Zeni",
+    "role": "OFFICER_ROLE",
+    "walletAddress": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+    "unit": "Satgassiber Kodam Jaya / Jayakarta",
+    "status": "ACTIVE",
+    "authorizations": [
+      "LOCK_EVIDENCE",
+      "SIGN_EIP712",
+      "COP_DISPATCH"
+    ],
+    "issuedAt": "2026-02-28T11:15:00Z"
+  },
+  {
+    "id": "OFF-004",
+    "name": "Dharma Satria",
+    "rank": "Letda Inf.",
+    "corps": "Infanteri",
+    "role": "OFFICER_ROLE",
+    "walletAddress": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "unit": "Satgassiber Kodam VI / Mulawarman IKN",
+    "status": "ACTIVE",
+    "authorizations": [
+      "LOCK_EVIDENCE",
+      "SIGN_EIP712"
+    ],
+    "issuedAt": "2026-03-04T14:20:00Z"
+  }
+]

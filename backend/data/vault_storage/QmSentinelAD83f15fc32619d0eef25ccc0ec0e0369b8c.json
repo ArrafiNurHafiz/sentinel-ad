@@ -1,0 +1,11 @@
+{
+  "sha256": "8f3a9e2d41b6c7890123456789abcdef0123456789abcdef0123456789abcdef",
+  "file_name": "test_deepfake.mp4",
+  "verdict": "DEEPFAKE_DETECTED",
+  "confidence_score": 0.974,
+  "threat_region": "KODAM_JAYA",
+  "officer_address": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+  "investigator_notes": "Test tactical investigation",
+  "archived_by": "SENTINEL-AD Tactical Dispatcher",
+  "archived_at": "2026-11-06T07:42:39.727412+00:00"
+}

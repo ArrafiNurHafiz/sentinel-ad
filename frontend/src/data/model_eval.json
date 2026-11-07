@@ -1,0 +1,227 @@
+{
+  "accuracy": 1.0,
+  "accuracy_percentage": 100.0,
+  "total_cases": 31,
+  "correct": 31,
+  "evaluated_at": "2026-11-06T19:09:42.022752+00:00",
+  "method": "end-to-end-holdout (CNN + fusion + Grad-CAM, out-of-sample)",
+  "details": [
+    {
+      "case": "demo_sample_authentic_speech.jpg",
+      "label_deepfake": false,
+      "predicted_deepfake": false,
+      "confidence": 0.05,
+      "correct": true
+    },
+    {
+      "case": "demo_sample_deepfake_speech.jpg",
+      "label_deepfake": true,
+      "predicted_deepfake": true,
+      "confidence": 0.682,
+      "correct": true
+    },
+    {
+      "case": "user_sample_authentic.jpg",
+      "label_deepfake": false,
+      "predicted_deepfake": false,
+      "confidence": 0.05,
+      "correct": true
+    },
+    {
+      "case": "user_sample_deepfake.jpg",
+      "label_deepfake": true,
+      "predicted_deepfake": true,
+      "confidence": 0.868,
+      "correct": true
+    },
+    {
+      "case": "holdout_user_auth_portrait.jpg",
+      "label_deepfake": false,
+      "predicted_deepfake": false,
+      "confidence": 0.05,
+      "correct": true
+    },
+    {
+      "case": "holdout_user_auth_recompress.jpg",
+      "label_deepfake": false,
+      "predicted_deepfake": false,
+      "confidence": 0.05,
+      "correct": true
+    },
+    {
+      "case": "holdout_user_fake_mouth.jpg",
+      "label_deepfake": true,
+      "predicted_deepfake": true,
+      "confidence": 0.758,
+      "correct": true
+    },
+    {
+      "case": "holdout_user_fake_checker.jpg",
+      "label_deepfake": true,
+      "predicted_deepfake": true,
+      "confidence": 0.935,
+      "correct": true
+    },
+    {
+      "case": "holdout_user_fake_splice.jpg",
+      "label_deepfake": true,
+      "predicted_deepfake": true,
+      "confidence": 0.942,
+      "correct": true
+    },
+    {
+      "case": "holdout_user_fake_periodic.jpg",
+      "label_deepfake": true,
+      "predicted_deepfake": true,
+      "confidence": 0.834,
+      "correct": true
+    },
+    {
+      "case": "holdout_photo_auth_0.jpg",
+      "label_deepfake": false,
+      "predicted_deepfake": false,
+      "confidence": 0.05,
+      "correct": true
+    },
+    {
+      "case": "holdout_photo_auth_1.jpg",
+      "label_deepfake": false,
+      "predicted_deepfake": false,
+      "confidence": 0.05,
+      "correct": true
+    },
+    {
+      "case": "holdout_photo_auth_2.jpg",
+      "label_deepfake": false,
+      "predicted_deepfake": false,
+      "confidence": 0.05,
+      "correct": true
+    },
+    {
+      "case": "holdout_photo_auth_3.jpg",
+      "label_deepfake": false,
+      "predicted_deepfake": false,
+      "confidence": 0.05,
+      "correct": true
+    },
+    {
+      "case": "holdout_photo_fake_checker.jpg",
+      "label_deepfake": true,
+      "predicted_deepfake": true,
+      "confidence": 0.949,
+      "correct": true
+    },
+    {
+      "case": "holdout_photo_fake_splice.jpg",
+      "label_deepfake": true,
+      "predicted_deepfake": true,
+      "confidence": 0.926,
+      "correct": true
+    },
+    {
+      "case": "holdout_photo_fake_periodic.jpg",
+      "label_deepfake": true,
+      "predicted_deepfake": true,
+      "confidence": 0.862,
+      "correct": true
+    },
+    {
+      "case": "holdout_photo_fake_banding.jpg",
+      "label_deepfake": true,
+      "predicted_deepfake": true,
+      "confidence": 0.862,
+      "correct": true
+    },
+    {
+      "case": "holdout_photo_fake_copymove.jpg",
+      "label_deepfake": true,
+      "predicted_deepfake": true,
+      "confidence": 0.789,
+      "correct": true
+    },
+    {
+      "case": "holdout_flat_auth_0.jpg",
+      "label_deepfake": false,
+      "predicted_deepfake": false,
+      "confidence": 0.078,
+      "correct": true
+    },
+    {
+      "case": "holdout_flat_auth_1.jpg",
+      "label_deepfake": false,
+      "predicted_deepfake": false,
+      "confidence": 0.077,
+      "correct": true
+    },
+    {
+      "case": "holdout_flat_auth_2.jpg",
+      "label_deepfake": false,
+      "predicted_deepfake": false,
+      "confidence": 0.084,
+      "correct": true
+    },
+    {
+      "case": "holdout_flat_auth_3.jpg",
+      "label_deepfake": false,
+      "predicted_deepfake": false,
+      "confidence": 0.152,
+      "correct": true
+    },
+    {
+      "case": "holdout_flat_fake_mouth_seam.jpg",
+      "label_deepfake": true,
+      "predicted_deepfake": true,
+      "confidence": 0.56,
+      "correct": true
+    },
+    {
+      "case": "holdout_flat_fake_splice.jpg",
+      "label_deepfake": true,
+      "predicted_deepfake": true,
+      "confidence": 0.925,
+      "correct": true
+    },
+    {
+      "case": "holdout_flat_fake_checker.jpg",
+      "label_deepfake": true,
+      "predicted_deepfake": true,
+      "confidence": 0.925,
+      "correct": true
+    },
+    {
+      "case": "holdout_flat_fake_banding.jpg",
+      "label_deepfake": true,
+      "predicted_deepfake": true,
+      "confidence": 0.868,
+      "correct": true
+    },
+    {
+      "case": "holdout_auth_blur.jpg",
+      "label_deepfake": false,
+      "predicted_deepfake": false,
+      "confidence": 0.055,
+      "correct": true
+    },
+    {
+      "case": "holdout_auth_bright.jpg",
+      "label_deepfake": false,
+      "predicted_deepfake": false,
+      "confidence": 0.05,
+      "correct": true
+    },
+    {
+      "case": "holdout_fake_contrast.jpg",
+      "label_deepfake": true,
+      "predicted_deepfake": true,
+      "confidence": 0.941,
+      "correct": true
+    },
+    {
+      "case": "holdout_flat_auth_recompress.jpg",
+      "label_deepfake": false,
+      "predicted_deepfake": false,
+      "confidence": 0.083,
+      "correct": true
+    }
+  ]
+}

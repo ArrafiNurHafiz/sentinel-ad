@@ -1,0 +1,1075 @@
+[
+  {
+    "id": "LOG-2026-1107190409",
+    "timestamp": "2026-11-07T12:04:09.365870+00:00",
+    "eventType": "VERIFY",
+    "actor": "Portal Verifikasi Publik Dispenad",
+    "actorAddress": "PUBLIC_GATEWAY",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Verifikasi publik atas berkas 'user_sample_deepfake.jpg'. Hasil: DEEPFAKE_DETECTED."
+  },
+  {
+    "id": "LOG-2026-1107190409",
+    "timestamp": "2026-11-07T12:04:09.349274+00:00",
+    "eventType": "VERIFY",
+    "actor": "Portal Verifikasi Publik Dispenad",
+    "actorAddress": "PUBLIC_GATEWAY",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Verifikasi publik atas berkas 'user_sample_deepfake.jpg'. Hasil: DEEPFAKE_DETECTED."
+  },
+  {
+    "id": "LOG-2026-1107190306",
+    "timestamp": "2026-11-07T12:03:06.137664+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'user_sample_deepfake.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107190306",
+    "timestamp": "2026-11-07T12:03:06.101553+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'user_sample_deepfake.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107190246",
+    "timestamp": "2026-11-07T12:02:46.830299+00:00",
+    "eventType": "LOCK_ON_CHAIN",
+    "actor": "Perwira 0x8F2B...76E9",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "txHash": "0xdf6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penguncian on-chain smart contract (Tx: 0xdf6266197d7e9cad...) dan IPFS CID QmSentinelADf1e67c5da0fbc1ca367d0b380182769ba2 berhasil."
+  },
+  {
+    "id": "LOG-2026-1107190217",
+    "timestamp": "2026-11-07T12:02:17.436509+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas user_sample_deepfake.jpg (KODAM_JAYA): DEEPFAKE_DETECTED (skor: 0.908) dalam 510ms."
+  },
+  {
+    "id": "LOG-2026-1107190205",
+    "timestamp": "2026-11-07T12:02:05.531438+00:00",
+    "eventType": "INGESTION",
+    "actor": "OSINT Automated Ingestion Crawler",
+    "actorAddress": "OSINT_GATEWAY",
+    "resourceHash": "7de7ed51a1594fff247f4cae2301eceacf5313d6011e37b4a4c8733f7bb72c07",
+    "status": "SUCCESS",
+    "description": "Akuisisi otomatis barang bukti daring dari URL 'https://raw.githubusercontent.com/opencv/opencv/master/samples/data/lena.jpg'. Format: image/jpeg, Ukuran: 91814 bytes."
+  },
+  {
+    "id": "LOG-2026-1107185725",
+    "timestamp": "2026-11-07T11:57:25.858121+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'user_sample_deepfake.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107185725",
+    "timestamp": "2026-11-07T11:57:25.835050+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'user_sample_deepfake.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107185724",
+    "timestamp": "2026-11-07T11:57:24.967783+00:00",
+    "eventType": "LOCK_ON_CHAIN",
+    "actor": "Perwira 0x8F2B...76E9",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "txHash": "0xdf6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penguncian on-chain smart contract (Tx: 0xdf6266197d7e9cad...) dan IPFS CID QmSentinelADde1ea40bd9c63c06d9f42ca9092ad451e3 berhasil."
+  },
+  {
+    "id": "LOG-2026-1107185724",
+    "timestamp": "2026-11-07T11:57:24.510118+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas user_sample_deepfake.jpg (KODAM_JAYA): DEEPFAKE_DETECTED (skor: 0.908) dalam 458ms."
+  },
+  {
+    "id": "LOG-2026-1107185723",
+    "timestamp": "2026-11-07T11:57:23.376940+00:00",
+    "eventType": "INGESTION",
+    "actor": "OSINT Automated Ingestion Crawler",
+    "actorAddress": "OSINT_GATEWAY",
+    "resourceHash": "7de7ed51a1594fff247f4cae2301eceacf5313d6011e37b4a4c8733f7bb72c07",
+    "status": "SUCCESS",
+    "description": "Akuisisi otomatis barang bukti daring dari URL 'https://raw.githubusercontent.com/opencv/opencv/master/samples/data/lena.jpg'. Format: image/jpeg, Ukuran: 91814 bytes."
+  },
+  {
+    "id": "LOG-2026-1107185643",
+    "timestamp": "2026-11-07T11:56:43.779347+00:00",
+    "eventType": "INGESTION",
+    "actor": "OSINT Automated Ingestion Crawler",
+    "actorAddress": "OSINT_GATEWAY",
+    "resourceHash": "7de7ed51a1594fff247f4cae2301eceacf5313d6011e37b4a4c8733f7bb72c07",
+    "status": "SUCCESS",
+    "description": "Akuisisi otomatis barang bukti daring dari URL 'https://raw.githubusercontent.com/opencv/opencv/master/samples/data/lena.jpg'. Format: image/jpeg, Ukuran: 91814 bytes."
+  },
+  {
+    "id": "LOG-2026-1107183604",
+    "timestamp": "2026-11-07T11:36:04.645708+00:00",
+    "eventType": "VERIFY",
+    "actor": "Portal Verifikasi Publik Dispenad",
+    "actorAddress": "PUBLIC_GATEWAY",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Verifikasi publik atas berkas 'user_sample_deepfake.jpg'. Hasil: DEEPFAKE_DETECTED."
+  },
+  {
+    "id": "LOG-2026-1107183604",
+    "timestamp": "2026-11-07T11:36:04.628299+00:00",
+    "eventType": "VERIFY",
+    "actor": "Portal Verifikasi Publik Dispenad",
+    "actorAddress": "PUBLIC_GATEWAY",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Verifikasi publik atas berkas 'user_sample_deepfake.jpg'. Hasil: DEEPFAKE_DETECTED."
+  },
+  {
+    "id": "LOG-2026-1107183528",
+    "timestamp": "2026-11-07T11:35:28.349204+00:00",
+    "eventType": "VERIFY",
+    "actor": "Portal Verifikasi Publik Dispenad",
+    "actorAddress": "PUBLIC_GATEWAY",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Verifikasi publik atas berkas 'user_sample_deepfake.jpg'. Hasil: DEEPFAKE_DETECTED."
+  },
+  {
+    "id": "LOG-2026-1107183528",
+    "timestamp": "2026-11-07T11:35:28.330648+00:00",
+    "eventType": "VERIFY",
+    "actor": "Portal Verifikasi Publik Dispenad",
+    "actorAddress": "PUBLIC_GATEWAY",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Verifikasi publik atas berkas 'user_sample_deepfake.jpg'. Hasil: DEEPFAKE_DETECTED."
+  },
+  {
+    "id": "LOG-2026-1107183517",
+    "timestamp": "2026-11-07T11:35:17.123695+00:00",
+    "eventType": "VERIFY",
+    "actor": "Portal Verifikasi Publik Dispenad",
+    "actorAddress": "PUBLIC_GATEWAY",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Verifikasi publik atas berkas 'user_sample_deepfake.jpg'. Hasil: DEEPFAKE_DETECTED."
+  },
+  {
+    "id": "LOG-2026-1107183436",
+    "timestamp": "2026-11-07T11:34:36.833331+00:00",
+    "eventType": "VERIFY",
+    "actor": "Portal Verifikasi Publik Dispenad",
+    "actorAddress": "PUBLIC_GATEWAY",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Verifikasi publik atas berkas 'user_sample_deepfake.jpg'. Hasil: DEEPFAKE_DETECTED."
+  },
+  {
+    "id": "LOG-2026-1107183436",
+    "timestamp": "2026-11-07T11:34:36.810663+00:00",
+    "eventType": "VERIFY",
+    "actor": "Portal Verifikasi Publik Dispenad",
+    "actorAddress": "PUBLIC_GATEWAY",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Verifikasi publik atas berkas 'user_sample_deepfake.jpg'. Hasil: DEEPFAKE_DETECTED."
+  },
+  {
+    "id": "LOG-2026-1107183306",
+    "timestamp": "2026-11-07T11:33:06.985892+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'user_sample_deepfake.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107183306",
+    "timestamp": "2026-11-07T11:33:06.944647+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'user_sample_deepfake.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107183226",
+    "timestamp": "2026-11-07T11:32:26.861545+00:00",
+    "eventType": "LOCK_ON_CHAIN",
+    "actor": "Perwira 0x8F2B...76E9",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "txHash": "0xdf6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penguncian on-chain smart contract (Tx: 0xdf6266197d7e9cad...) dan IPFS CID QmSentinelAD2212b7859f59929f450d42d1cbbfa277ac berhasil."
+  },
+  {
+    "id": "LOG-2026-1107183222",
+    "timestamp": "2026-11-07T11:32:22.168335+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas user_sample_deepfake.jpg (KODAM_JAYA): DEEPFAKE_DETECTED (skor: 0.908) dalam 465ms."
+  },
+  {
+    "id": "LOG-2026-1107183136",
+    "timestamp": "2026-11-07T11:31:36.352327+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas user_sample_deepfake.jpg (KODAM_JAYA): DEEPFAKE_DETECTED (skor: 0.908) dalam 444ms."
+  },
+  {
+    "id": "LOG-2026-1107183103",
+    "timestamp": "2026-11-07T11:31:03.713805+00:00",
+    "eventType": "INGESTION",
+    "actor": "OSINT Automated Ingestion Crawler",
+    "actorAddress": "OSINT_GATEWAY",
+    "resourceHash": "7de7ed51a1594fff247f4cae2301eceacf5313d6011e37b4a4c8733f7bb72c07",
+    "status": "SUCCESS",
+    "description": "Akuisisi otomatis barang bukti daring dari URL 'https://raw.githubusercontent.com/opencv/opencv/master/samples/data/lena.jpg'. Format: image/jpeg, Ukuran: 91814 bytes."
+  },
+  {
+    "id": "LOG-2026-1107182442",
+    "timestamp": "2026-11-07T11:24:42.478294+00:00",
+    "eventType": "INGESTION",
+    "actor": "OSINT Automated Ingestion Crawler",
+    "actorAddress": "OSINT_GATEWAY",
+    "resourceHash": "7de7ed51a1594fff247f4cae2301eceacf5313d6011e37b4a4c8733f7bb72c07",
+    "status": "SUCCESS",
+    "description": "Akuisisi otomatis barang bukti daring dari URL 'https://raw.githubusercontent.com/opencv/opencv/master/samples/data/lena.jpg'. Format: image/jpeg, Ukuran: 91814 bytes."
+  },
+  {
+    "id": "LOG-2026-1107182408",
+    "timestamp": "2026-11-07T11:24:08.466414+00:00",
+    "eventType": "INGESTION",
+    "actor": "OSINT Automated Ingestion Crawler",
+    "actorAddress": "OSINT_GATEWAY",
+    "resourceHash": "7de7ed51a1594fff247f4cae2301eceacf5313d6011e37b4a4c8733f7bb72c07",
+    "status": "SUCCESS",
+    "description": "Akuisisi otomatis barang bukti daring dari URL 'https://raw.githubusercontent.com/opencv/opencv/master/samples/data/lena.jpg'. Format: image/jpeg, Ukuran: 91814 bytes."
+  },
+  {
+    "id": "LOG-2026-1107182402",
+    "timestamp": "2026-11-07T11:24:02.262012+00:00",
+    "eventType": "INGESTION",
+    "actor": "OSINT Automated Ingestion Crawler",
+    "actorAddress": "OSINT_GATEWAY",
+    "resourceHash": "7de7ed51a1594fff247f4cae2301eceacf5313d6011e37b4a4c8733f7bb72c07",
+    "status": "SUCCESS",
+    "description": "Akuisisi otomatis barang bukti daring dari URL 'https://raw.githubusercontent.com/opencv/opencv/master/samples/data/lena.jpg'. Format: image/jpeg, Ukuran: 91814 bytes."
+  },
+  {
+    "id": "LOG-2026-1107182329",
+    "timestamp": "2026-11-07T11:23:29.769475+00:00",
+    "eventType": "INGESTION",
+    "actor": "OSINT Automated Ingestion Crawler",
+    "actorAddress": "OSINT_GATEWAY",
+    "resourceHash": "7de7ed51a1594fff247f4cae2301eceacf5313d6011e37b4a4c8733f7bb72c07",
+    "status": "SUCCESS",
+    "description": "Akuisisi otomatis barang bukti daring dari URL 'https://raw.githubusercontent.com/opencv/opencv/master/samples/data/lena.jpg'. Format: image/jpeg, Ukuran: 91814 bytes."
+  },
+  {
+    "id": "LOG-2026-1107181705",
+    "timestamp": "2026-11-07T11:17:05.299285+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'user_sample_deepfake.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107181650",
+    "timestamp": "2026-11-07T11:16:50.626011+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'user_sample_deepfake.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107181650",
+    "timestamp": "2026-11-07T11:16:50.578256+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'user_sample_deepfake.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107181548",
+    "timestamp": "2026-11-07T11:15:48.186462+00:00",
+    "eventType": "INGESTION",
+    "actor": "OSINT Automated Ingestion Crawler",
+    "actorAddress": "OSINT_GATEWAY",
+    "resourceHash": "7de7ed51a1594fff247f4cae2301eceacf5313d6011e37b4a4c8733f7bb72c07",
+    "status": "SUCCESS",
+    "description": "Akuisisi otomatis barang bukti daring dari URL 'https://raw.githubusercontent.com/opencv/opencv/master/samples/data/lena.jpg'. Format: image/jpeg, Ukuran: 91814 bytes."
+  },
+  {
+    "id": "LOG-2026-1107174554",
+    "timestamp": "2026-11-07T10:45:54.239787+00:00",
+    "eventType": "LOCK_ON_CHAIN",
+    "actor": "Perwira 0x8F2B...76E9",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "txHash": "0xdf6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penguncian on-chain smart contract (Tx: 0xdf6266197d7e9cad...) dan IPFS CID QmSentinelAD3ba771de83b185427b21440cdfcf29d83a berhasil."
+  },
+  {
+    "id": "LOG-2026-1107174520",
+    "timestamp": "2026-11-07T10:45:20.237630+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas user_sample_deepfake.jpg (KODAM_JAYA): DEEPFAKE_DETECTED (skor: 0.908) dalam 445ms."
+  },
+  {
+    "id": "LOG-2026-1107174134",
+    "timestamp": "2026-11-07T10:41:34.830756+00:00",
+    "eventType": "LOCK_ON_CHAIN",
+    "actor": "Perwira 0x8F2B...76E9",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "txHash": "0xdf6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penguncian on-chain smart contract (Tx: 0xdf6266197d7e9cad...) dan IPFS CID QmSentinelADfa3f841c985b3e89feb84b0b7ead9e2686 berhasil."
+  },
+  {
+    "id": "LOG-2026-1107174134",
+    "timestamp": "2026-11-07T10:41:34.343404+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas user_sample_deepfake.jpg (KODAM_JAYA): DEEPFAKE_DETECTED (skor: 0.908) dalam 446ms."
+  },
+  {
+    "id": "LOG-2026-1107155209",
+    "timestamp": "2026-11-07T08:52:09.709505+00:00",
+    "eventType": "LOCK_ON_CHAIN",
+    "actor": "Perwira 0x8F2B...76E9",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "txHash": "0xdf6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penguncian on-chain smart contract (Tx: 0xdf6266197d7e9cad...) dan IPFS CID QmSentinelAD4d2b85ccb403cac8638c257ea03ec3d188 berhasil."
+  },
+  {
+    "id": "LOG-2026-1107155207",
+    "timestamp": "2026-11-07T08:52:07.144066+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas user_sample_deepfake.jpg (KODAM_JAYA): DEEPFAKE_DETECTED (skor: 0.908) dalam 1087ms."
+  },
+  {
+    "id": "LOG-2026-1107154037",
+    "timestamp": "2026-11-07T08:40:37.559493+00:00",
+    "eventType": "LOCK_ON_CHAIN",
+    "actor": "Perwira 0x8F2B...76E9",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "txHash": "0xdf6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penguncian on-chain smart contract (Tx: 0xdf6266197d7e9cad...) dan IPFS CID QmSentinelAD4a13d3d9858763c7e03f1be0de07516df2 berhasil."
+  },
+  {
+    "id": "LOG-2026-1107154002",
+    "timestamp": "2026-11-07T08:40:02.048036+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas user_sample_deepfake.jpg (KODAM_JAYA): DEEPFAKE_DETECTED (skor: 0.908) dalam 1363ms."
+  },
+  {
+    "id": "LOG-2026-1107150258",
+    "timestamp": "2026-11-07T08:02:58.090405+00:00",
+    "eventType": "LOCK_ON_CHAIN",
+    "actor": "Perwira 0x8F2B...76E9",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "txHash": "0xdf6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penguncian on-chain smart contract (Tx: 0xdf6266197d7e9cad...) dan IPFS CID QmSentinelAD1e7596b8d0440b0141d482ea9e7b0ee272 berhasil."
+  },
+  {
+    "id": "LOG-2026-1107150219",
+    "timestamp": "2026-11-07T08:02:19.734228+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas user_sample_deepfake.jpg (KODAM_JAYA): DEEPFAKE_DETECTED (skor: 0.908) dalam 624ms."
+  },
+  {
+    "id": "LOG-2026-1107144849",
+    "timestamp": "2026-11-07T07:48:49.366076+00:00",
+    "eventType": "LOCK_ON_CHAIN",
+    "actor": "Perwira 0x8F2B...76E9",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "txHash": "0xdf6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penguncian on-chain smart contract (Tx: 0xdf6266197d7e9cad...) dan IPFS CID QmSentinelAD21918927029fb9b76b976a54f96854a10b berhasil."
+  },
+  {
+    "id": "LOG-2026-1107144834",
+    "timestamp": "2026-11-07T07:48:34.583627+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas user_sample_deepfake.jpg (KODAM_JAYA): DEEPFAKE_DETECTED (skor: 0.908) dalam 454ms."
+  },
+  {
+    "id": "LOG-2026-1107144542",
+    "timestamp": "2026-11-07T07:45:42.924048+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas user_sample_deepfake.jpg (KODAM_JAYA): DEEPFAKE_DETECTED (skor: 0.908) dalam 1390ms."
+  },
+  {
+    "id": "LOG-2026-1107133633",
+    "timestamp": "2026-11-07T06:36:33.670396+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'dossier_test.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107133633",
+    "timestamp": "2026-11-07T06:36:33.644345+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas dossier_test.jpg (KODAM_JAYA): AUTHENTIC_MEDIA (skor: 0.05) dalam 99ms."
+  },
+  {
+    "id": "LOG-2026-1107133633",
+    "timestamp": "2026-11-07T06:36:33.489055+00:00",
+    "eventType": "VERIFY",
+    "actor": "Portal Verifikasi Publik Dispenad",
+    "actorAddress": "PUBLIC_GATEWAY",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Verifikasi publik atas berkas 'sample_fake_general.jpg'. Hasil: AUTHENTIC_MEDIA."
+  },
+  {
+    "id": "LOG-2026-1107133633",
+    "timestamp": "2026-11-07T06:36:33.468749+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas sample_fake_general.jpg (KODAM_JAYA): AUTHENTIC_MEDIA (skor: 0.05) dalam 116ms."
+  },
+  {
+    "id": "LOG-2026-1107133633",
+    "timestamp": "2026-11-07T06:36:33.291086+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas test_surveillance_face.jpg (KODAM_JAYA): AUTHENTIC_MEDIA (skor: 0.05) dalam 775ms."
+  },
+  {
+    "id": "LOG-2026-1107021224",
+    "timestamp": "2026-11-06T19:12:24.057683+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "800fdb469a657ee1bad67b599949c7d6632fcd032541c8322f8aece692ea8dbd",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas sample_authentic_speech.jpg (KODAM_JAYA): AUTHENTIC_MEDIA (skor: 0.05) dalam 489ms."
+  },
+  {
+    "id": "LOG-2026-1107021219",
+    "timestamp": "2026-11-06T19:12:19.391620+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "b482ff8cbf68a6564ef19937b2fe09c4d207a4a769901953dfee9ef0548bd8e2",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas sample_deepfake_speech.jpg (KODAM_JAYA): DEEPFAKE_DETECTED (skor: 0.84) dalam 283ms."
+  },
+  {
+    "id": "LOG-2026-1107021211",
+    "timestamp": "2026-11-06T19:12:11.365031+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "ca8b754fe0843f9ef0eb0c5c392fe91d789846271a55f6f188c8ba756a88aea0",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas user_sample_authentic.jpg (KODAM_JAYA): AUTHENTIC_MEDIA (skor: 0.05) dalam 721ms."
+  },
+  {
+    "id": "LOG-2026-1107021206",
+    "timestamp": "2026-11-06T19:12:06.088007+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas user_sample_deepfake.jpg (KODAM_JAYA): DEEPFAKE_DETECTED (skor: 0.908) dalam 747ms."
+  },
+  {
+    "id": "LOG-2026-1107021004",
+    "timestamp": "2026-11-06T19:10:04.147548+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'dossier_test.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107021004",
+    "timestamp": "2026-11-06T19:10:04.125617+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas dossier_test.jpg (KODAM_JAYA): AUTHENTIC_MEDIA (skor: 0.05) dalam 123ms."
+  },
+  {
+    "id": "LOG-2026-1107021003",
+    "timestamp": "2026-11-06T19:10:03.951748+00:00",
+    "eventType": "VERIFY",
+    "actor": "Portal Verifikasi Publik Dispenad",
+    "actorAddress": "PUBLIC_GATEWAY",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Verifikasi publik atas berkas 'sample_fake_general.jpg'. Hasil: AUTHENTIC_MEDIA."
+  },
+  {
+    "id": "LOG-2026-1107021003",
+    "timestamp": "2026-11-06T19:10:03.928672+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas sample_fake_general.jpg (KODAM_JAYA): AUTHENTIC_MEDIA (skor: 0.05) dalam 123ms."
+  },
+  {
+    "id": "LOG-2026-1107021003",
+    "timestamp": "2026-11-06T19:10:03.738672+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas test_surveillance_face.jpg (KODAM_JAYA): AUTHENTIC_MEDIA (skor: 0.05) dalam 373ms."
+  },
+  {
+    "id": "LOG-2026-1107012452",
+    "timestamp": "2026-11-06T18:24:52.705827+00:00",
+    "eventType": "INGESTION",
+    "actor": "OSINT Automated Ingestion Crawler",
+    "actorAddress": "OSINT_GATEWAY",
+    "resourceHash": "7de7ed51a1594fff247f4cae2301eceacf5313d6011e37b4a4c8733f7bb72c07",
+    "status": "SUCCESS",
+    "description": "Akuisisi otomatis barang bukti daring dari URL 'https://raw.githubusercontent.com/opencv/opencv/master/samples/data/lena.jpg'. Format: image/jpeg, Ukuran: 91814 bytes."
+  },
+  {
+    "id": "LOG-2026-1107012427",
+    "timestamp": "2026-11-06T18:24:27.664541+00:00",
+    "eventType": "INGESTION",
+    "actor": "OSINT Automated Ingestion Crawler",
+    "actorAddress": "OSINT_GATEWAY",
+    "resourceHash": "cbdf23a1f9dda2091e8245e1843ae56b62a11852a3e537d06c23755fdedd1f3c",
+    "status": "SUCCESS",
+    "description": "Akuisisi otomatis barang bukti daring dari URL 'https://viso.ai/computer-vision/deepface/'. Format: text/html; charset=UTF-8, Ukuran: 282158 bytes."
+  },
+  {
+    "id": "LOG-2026-1107010620",
+    "timestamp": "2026-11-06T18:06:20.213211+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'dossier_test.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107010620",
+    "timestamp": "2026-11-06T18:06:20.191666+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas dossier_test.jpg (KODAM_JAYA): AUTHENTIC_MEDIA (skor: 0.294) dalam 172ms."
+  },
+  {
+    "id": "LOG-2026-1107010619",
+    "timestamp": "2026-11-06T18:06:19.973530+00:00",
+    "eventType": "VERIFY",
+    "actor": "Portal Verifikasi Publik Dispenad",
+    "actorAddress": "PUBLIC_GATEWAY",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Verifikasi publik atas berkas 'sample_fake_general.jpg'. Hasil: AUTHENTIC_MEDIA."
+  },
+  {
+    "id": "LOG-2026-1107010619",
+    "timestamp": "2026-11-06T18:06:19.954139+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas sample_fake_general.jpg (KODAM_JAYA): AUTHENTIC_MEDIA (skor: 0.294) dalam 170ms."
+  },
+  {
+    "id": "LOG-2026-1107010619",
+    "timestamp": "2026-11-06T18:06:19.726282+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas test_surveillance_face.jpg (KODAM_JAYA): AUTHENTIC_MEDIA (skor: 0.294) dalam 482ms."
+  },
+  {
+    "id": "LOG-2026-1107010549",
+    "timestamp": "2026-11-06T18:05:49.150221+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'dossier_test.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107010549",
+    "timestamp": "2026-11-06T18:05:49.128887+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas dossier_test.jpg (KODAM_JAYA): AUTHENTIC_MEDIA (skor: 0.294) dalam 168ms."
+  },
+  {
+    "id": "LOG-2026-1107010548",
+    "timestamp": "2026-11-06T18:05:48.912347+00:00",
+    "eventType": "VERIFY",
+    "actor": "Portal Verifikasi Publik Dispenad",
+    "actorAddress": "PUBLIC_GATEWAY",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Verifikasi publik atas berkas 'sample_fake_general.jpg'. Hasil: AUTHENTIC_MEDIA."
+  },
+  {
+    "id": "LOG-2026-1107010548",
+    "timestamp": "2026-11-06T18:05:48.891858+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas sample_fake_general.jpg (KODAM_JAYA): AUTHENTIC_MEDIA (skor: 0.294) dalam 170ms."
+  },
+  {
+    "id": "LOG-2026-1107010548",
+    "timestamp": "2026-11-06T18:05:48.663642+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas test_surveillance_face.jpg (KODAM_JAYA): AUTHENTIC_MEDIA (skor: 0.294) dalam 467ms."
+  },
+  {
+    "id": "LOG-2026-1107010518",
+    "timestamp": "2026-11-06T18:05:18.869986+00:00",
+    "eventType": "VERIFY",
+    "actor": "Portal Verifikasi Publik Dispenad",
+    "actorAddress": "PUBLIC_GATEWAY",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Verifikasi publik atas berkas 'sample_fake_general.jpg'. Hasil: AUTHENTIC_MEDIA."
+  },
+  {
+    "id": "LOG-2026-1107010518",
+    "timestamp": "2026-11-06T18:05:18.837231+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas sample_fake_general.jpg (KODAM_JAYA): AUTHENTIC_MEDIA (skor: 0.294) dalam 272ms."
+  },
+  {
+    "id": "LOG-2026-1107010518",
+    "timestamp": "2026-11-06T18:05:18.438695+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "21f86b38de5f4175a705b096fb2fb3688ba906d9da3d1ff5ae35c6dfba8be855",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas test_surveillance_face.jpg (KODAM_JAYA): AUTHENTIC_MEDIA (skor: 0.294) dalam 660ms."
+  },
+  {
+    "id": "LOG-2026-1107010204",
+    "timestamp": "2026-11-06T18:02:04.433289+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "7de7ed51a1594fff247f4cae2301eceacf5313d6011e37b4a4c8733f7bb72c07",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'lena.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107010158",
+    "timestamp": "2026-11-06T18:01:58.547061+00:00",
+    "eventType": "INGESTION",
+    "actor": "OSINT Automated Ingestion Crawler",
+    "actorAddress": "OSINT_GATEWAY",
+    "resourceHash": "7de7ed51a1594fff247f4cae2301eceacf5313d6011e37b4a4c8733f7bb72c07",
+    "status": "SUCCESS",
+    "description": "Akuisisi otomatis barang bukti daring dari URL 'https://raw.githubusercontent.com/opencv/opencv/master/samples/data/lena.jpg'. Format: image/jpeg, Ukuran: 91814 bytes."
+  },
+  {
+    "id": "LOG-2026-1107010149",
+    "timestamp": "2026-11-06T18:01:49.341253+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "ca8b754fe0843f9ef0eb0c5c392fe91d789846271a55f6f188c8ba756a88aea0",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'user_sample_authentic.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107010149",
+    "timestamp": "2026-11-06T18:01:49.201254+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'user_sample_deepfake.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107010137",
+    "timestamp": "2026-11-06T18:01:37.586566+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'user_sample_deepfake.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107010137",
+    "timestamp": "2026-11-06T18:01:37.380823+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "ca8b754fe0843f9ef0eb0c5c392fe91d789846271a55f6f188c8ba756a88aea0",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'user_sample_authentic.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107005644",
+    "timestamp": "2026-11-06T17:56:44.356279+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "7de7ed51a1594fff247f4cae2301eceacf5313d6011e37b4a4c8733f7bb72c07",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'lena.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107005634",
+    "timestamp": "2026-11-06T17:56:34.740964+00:00",
+    "eventType": "INGESTION",
+    "actor": "OSINT Automated Ingestion Crawler",
+    "actorAddress": "OSINT_GATEWAY",
+    "resourceHash": "7de7ed51a1594fff247f4cae2301eceacf5313d6011e37b4a4c8733f7bb72c07",
+    "status": "SUCCESS",
+    "description": "Akuisisi otomatis barang bukti daring dari URL 'https://raw.githubusercontent.com/opencv/opencv/master/samples/data/lena.jpg'. Format: image/jpeg, Ukuran: 91814 bytes."
+  },
+  {
+    "id": "LOG-2026-1107005446",
+    "timestamp": "2026-11-06T17:54:46.284234+00:00",
+    "eventType": "VERIFY",
+    "actor": "Portal Verifikasi Publik Dispenad",
+    "actorAddress": "PUBLIC_GATEWAY",
+    "resourceHash": "ca8b754fe0843f9ef0eb0c5c392fe91d789846271a55f6f188c8ba756a88aea0",
+    "status": "SUCCESS",
+    "description": "Verifikasi publik atas berkas 'user_sample_authentic.jpg'. Hasil: AUTHENTIC_MEDIA."
+  },
+  {
+    "id": "LOG-2026-1107005446",
+    "timestamp": "2026-11-06T17:54:46.261648+00:00",
+    "eventType": "VERIFY",
+    "actor": "Portal Verifikasi Publik Dispenad",
+    "actorAddress": "PUBLIC_GATEWAY",
+    "resourceHash": "ca8b754fe0843f9ef0eb0c5c392fe91d789846271a55f6f188c8ba756a88aea0",
+    "status": "SUCCESS",
+    "description": "Verifikasi publik atas berkas 'user_sample_authentic.jpg'. Hasil: AUTHENTIC_MEDIA."
+  },
+  {
+    "id": "LOG-2026-1107005355",
+    "timestamp": "2026-11-06T17:53:55.799109+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "ca8b754fe0843f9ef0eb0c5c392fe91d789846271a55f6f188c8ba756a88aea0",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'user_sample_authentic.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107005355",
+    "timestamp": "2026-11-06T17:53:55.783377+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "ca8b754fe0843f9ef0eb0c5c392fe91d789846271a55f6f188c8ba756a88aea0",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'user_sample_authentic.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107005345",
+    "timestamp": "2026-11-06T17:53:45.954746+00:00",
+    "eventType": "LOCK_ON_CHAIN",
+    "actor": "Perwira 0x8F2B...76E9",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "ca8b754fe0843f9ef0eb0c5c392fe91d789846271a55f6f188c8ba756a88aea0",
+    "txHash": "0xca8b754fe0843f9ef0eb0c5c392fe91d789846271a55f6f188c8ba756a88aea0",
+    "status": "SUCCESS",
+    "description": "Penguncian on-chain smart contract (Tx: 0xca8b754fe0843f9e...) dan IPFS CID QmSentinelADb0414993893094c92132ff31165b35642a berhasil."
+  },
+  {
+    "id": "LOG-2026-1107005337",
+    "timestamp": "2026-11-06T17:53:37.835771+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "ca8b754fe0843f9ef0eb0c5c392fe91d789846271a55f6f188c8ba756a88aea0",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas user_sample_authentic.jpg (KODAM_XVII_CEN): AUTHENTIC_MEDIA (skor: 0.387) dalam 928ms."
+  },
+  {
+    "id": "LOG-2026-1107005249",
+    "timestamp": "2026-11-06T17:52:49.376407+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'user_sample_deepfake.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107005249",
+    "timestamp": "2026-11-06T17:52:49.343014+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'user_sample_deepfake.jpg'."
+  },
+  {
+    "id": "LOG-2026-1107005235",
+    "timestamp": "2026-11-06T17:52:35.125893+00:00",
+    "eventType": "LOCK_ON_CHAIN",
+    "actor": "Perwira 0x8F2B...76E9",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "txHash": "0xdf6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Penguncian on-chain smart contract (Tx: 0xdf6266197d7e9cad...) dan IPFS CID QmSentinelADd4cd1704397420fe0852abf5970b0c962b berhasil."
+  },
+  {
+    "id": "LOG-2026-1107005225",
+    "timestamp": "2026-11-06T17:52:25.146980+00:00",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+    "status": "SUCCESS",
+    "description": "Inferensi forensik berkas user_sample_deepfake.jpg (KODAM_XVII_CEN): DEEPFAKE_DETECTED (skor: 0.594) dalam 1014ms."
+  },
+  {
+    "id": "LOG-2026-1107005000",
+    "timestamp": "2026-11-06T17:50:00.687650+00:00",
+    "eventType": "CERT_ISSUED",
+    "actor": "Pemeriksa Forensik PUSSIBERAD",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "b482ff8cbf68a6564ef19937b2fe09c4d207a4a769901953dfee9ef0548bd8e2",
+    "status": "SUCCESS",
+    "description": "Penerbitan Berkas Berita Acara Pemeriksaan (BAP) resmi atas barang bukti 'Pernyataan Komandan (Sosmed)'."
+  },
+  {
+    "id": "LOG-2026-1107004005",
+    "timestamp": "2026-11-06T17:40:05.146016+00:00",
+    "eventType": "KEY_AUTH",
+    "actor": "Administrator Siber",
+    "actorAddress": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+    "resourceHash": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+    "status": "WARNING",
+    "description": "Perubahan status perwira Tri Sutrisno menjadi SUSPENDED."
+  },
+  {
+    "id": "LOG-2026-1107003955",
+    "timestamp": "2026-11-06T17:39:55.483229+00:00",
+    "eventType": "KEY_AUTH",
+    "actor": "Tri Sutrisno",
+    "actorAddress": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+    "resourceHash": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+    "status": "SUCCESS",
+    "description": "Registrasi perwira baru Kapten Chb. Tri Sutrisno (OFFICER_ROLE) di unit Satgassiber Kodam IV / Diponegoro."
+  },
+  {
+    "id": "LOG-2026-1107003934",
+    "timestamp": "2026-11-06T17:39:34.259278+00:00",
+    "eventType": "VERIFY",
+    "actor": "Portal Verifikasi Publik Dispenad",
+    "actorAddress": "PUBLIC_GATEWAY",
+    "resourceHash": "b482ff8cbf68a6564ef19937b2fe09c4d207a4a769901953dfee9ef0548bd8e2",
+    "status": "SUCCESS",
+    "description": "Verifikasi publik atas berkas 'Pernyataan Komandan (Sosmed)'. Hasil: DEEPFAKE_DETECTED."
+  },
+  {
+    "id": "LOG-2026-1107003928",
+    "timestamp": "2026-11-06T17:39:28.751584+00:00",
+    "eventType": "VERIFY",
+    "actor": "Portal Verifikasi Publik Dispenad",
+    "actorAddress": "PUBLIC_GATEWAY",
+    "resourceHash": "b482ff8cbf68a6564ef19937b2fe09c4d207a4a769901953dfee9ef0548bd8e2",
+    "status": "SUCCESS",
+    "description": "Verifikasi publik atas berkas 'Pernyataan Komandan (Sosmed)'. Hasil: DEEPFAKE_DETECTED."
+  },
+  {
+    "id": "LOG-2026-1107003715",
+    "timestamp": "2026-11-06T17:37:15.814890+00:00",
+    "eventType": "C2_ALERT",
+    "actor": "Letkol Inf. Arrafi Nur Hafiz",
+    "actorAddress": "C2_DISPATCH_CONSOLE",
+    "resourceHash": "KODAM_JAYA",
+    "status": "SUCCESS",
+    "description": "Pancaran peringatan dini C2 ke wilayah KODAM_JAYA: Siaga 1: Deteksi disinformasi deepfake pidato komando tinggi."
+  },
+  {
+    "id": "LOG-2026-0895",
+    "timestamp": "2026-11-06T17:22:28Z",
+    "eventType": "VERIFY",
+    "actor": "Portal Verifikasi Publik Dispenad",
+    "actorAddress": "PUBLIC_GATEWAY",
+    "resourceHash": "c6553b2f857b16465e472893e56166bfd00038fd20286bd3912d320dba53675b",
+    "txHash": "0xc6553b2f857b16465e472893e56166bfd00038fd",
+    "status": "SUCCESS",
+    "description": "Verifikasi publik media IMG_0479.jpg sukses: status AUTHENTIC_MEDIA terkonfirmasi on-chain."
+  },
+  {
+    "id": "LOG-2026-0894",
+    "timestamp": "2026-11-06T16:57:28Z",
+    "eventType": "INFERENCE",
+    "actor": "PyTorch Forensics Engine v2.0",
+    "actorAddress": "NODE_PUSSIBERAD_HQ",
+    "resourceHash": "61b183665beff251df31d5b3dfbbfaeb1a19d08e8cb554ca7873ad9685984606",
+    "status": "SUCCESS",
+    "description": "Inferensi deepfake mendeteksi anomali mouth_seam dan pola GAN checkerboard pada sampel manipulasi foto pengguna."
+  },
+  {
+    "id": "LOG-2026-0893",
+    "timestamp": "2026-11-06T16:57:17Z",
+    "eventType": "INGESTION",
+    "actor": "Letkol Inf. Arrafi N.H.",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "c6553b2f857b16465e472893e56166bfd00038fd20286bd3912d320dba53675b",
+    "status": "SUCCESS",
+    "description": "Ingestion foto asli IMG_0479.jpg (3024x4032). Perhitungan deterministik SHA-256 digest tuntas."
+  },
+  {
+    "id": "LOG-2026-0892",
+    "timestamp": "2026-11-06T16:52:04Z",
+    "eventType": "MODEL_TRAIN",
+    "actor": "AI Training Dispatcher",
+    "actorAddress": "INTERNAL_ML_CORE",
+    "resourceHash": "MODEL_CKPT_DEEPFAKE_CNN_PT",
+    "status": "SUCCESS",
+    "description": "Pelatihan ulang DeepfakeForensicsCNN 12 epoch selesai. Akurasi validasi 89.3%, holdout out-of-sample 83.9%."
+  },
+  {
+    "id": "LOG-2026-0891",
+    "timestamp": "2026-11-06T14:48:12Z",
+    "eventType": "LOCK_ON_CHAIN",
+    "actor": "Letkol Inf. Arrafi N.H.",
+    "actorAddress": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+    "resourceHash": "4f9e8a7c2d1b0e5f3a6c9d8b7e4a1f2c0d3e5b7a9c1e3f5d7b9a1c3e5f7a9b1c",
+    "txHash": "0x8a9b7c6d5e4f3a2b1c0d9e8f7a6b5c4d3e2f1a0b9c8d7e6f5a4b3c2d1e0f9a8b",
+    "status": "SUCCESS",
+    "description": "Penguncian permanen evidensi media deepfake ke smart contract Polygon Amoy (80002)."
+  },
+  {
+    "id": "LOG-2026-0890",
+    "timestamp": "2026-11-06T14:47:58Z",
+    "eventType": "C2_ALERT",
+    "actor": "C2 Alert Broadcaster",
+    "actorAddress": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+    "resourceHash": "4f9e8a7c2d1b0e5f3a6c9d8b7e4a1f2c0d3e5b7a9c1e3f5d7b9a1c3e5f7a9b1c",
+    "status": "SUCCESS",
+    "description": "Pancaran peringatan dini event TacticalC2Alert ke Common Operational Picture KODAM JAYA."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "seg01_hero",
+    "action": "hero_showcase",
+    "duration": 36.672,
+    "audio_file": "/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments_v2/seg01_hero.mp3"
+  },
+  {
+    "id": "seg02_problem",
+    "action": "scroll_problem",
+    "duration": 32.328,
+    "audio_file": "/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments_v2/seg02_problem.mp3"
+  },
+  {
+    "id": "seg03_pillars",
+    "action": "scroll_pillars_arch",
+    "duration": 31.344,
+    "audio_file": "/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments_v2/seg03_pillars.mp3"
+  },
+  {
+    "id": "seg04_dashboard",
+    "action": "enter_dashboard_cop",
+    "duration": 30.624,
+    "audio_file": "/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments_v2/seg04_dashboard.mp3"
+  },
+  {
+    "id": "seg05_osint_url",
+    "action": "osint_url_ingestion",
+    "duration": 27.0,
+    "audio_file": "/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments_v2/seg05_osint_url.mp3"
+  },
+  {
+    "id": "seg06_file_gradcam",
+    "action": "file_pytorch_dualpane",
+    "duration": 35.232,
+    "audio_file": "/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments_v2/seg06_file_gradcam.mp3"
+  },
+  {
+    "id": "seg07_blockchain_lock",
+    "action": "blockchain_lock_cert",
+    "duration": 31.968,
+    "audio_file": "/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments_v2/seg07_blockchain_lock.mp3"
+  },
+  {
+    "id": "seg08_bap_dossier",
+    "action": "view_bap_dossier",
+    "duration": 31.104,
+    "audio_file": "/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments_v2/seg08_bap_dossier.mp3"
+  },
+  {
+    "id": "seg09_ledger_audit",
+    "action": "view_evidence_ledger",
+    "duration": 26.64,
+    "audio_file": "/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments_v2/seg09_ledger_audit.mp3"
+  },
+  {
+    "id": "seg10_verify_closing",
+    "action": "public_verify_salute",
+    "duration": 31.056,
+    "audio_file": "/home/arrafi/lomba/Kartikacyber/docs/videos/audio_segments_v2/seg10_verify_closing.mp3"
+  }
+]

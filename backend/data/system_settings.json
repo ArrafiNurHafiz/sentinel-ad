@@ -1,0 +1,10 @@
+{
+  "device": "cpu",
+  "threshold": 85,
+  "airGappedMode": true,
+  "rpcUrl": "https://rpc-amoy.polygon.technology/",
+  "contractAddress": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+  "ipfsGateway": "https://gateway.pinata.cloud/ipfs/",
+  "autoAlertThreshold": "HIGH",
+  "updatedAt": "2026-11-06T17:23:45Z"
+}

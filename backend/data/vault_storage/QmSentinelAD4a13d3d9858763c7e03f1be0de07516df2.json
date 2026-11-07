@@ -1,0 +1,11 @@
+{
+  "sha256": "df6266197d7e9cadaf62ab3f2030e12f11fc9731883ffdfd242ca11326279269",
+  "file_name": "user_sample_deepfake.jpg",
+  "verdict": "DEEPFAKE_DETECTED",
+  "confidence_score": 0.908,
+  "threat_region": "KODAM_JAYA",
+  "officer_address": "0x8F2B1A0413554F8E24D2821A85d05E44b1c676E9",
+  "investigator_notes": "Pemeriksaan taktis unit siber",
+  "archived_by": "SENTINEL-AD Tactical Dispatcher",
+  "archived_at": "2026-11-07T08:40:37.392688+00:00"
+}
